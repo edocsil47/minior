@@ -1,6 +1,6 @@
-# Privacy Policy for Indigo Minior and Yellow Minior
+# Privacy Policy for indigo-minior and yellow-minior
 
-1. **Introduction** The Developers of Indigo Minior and Yellow Minior ("we", "our", "us") are committed to protecting and respecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our Discord bots (the "Bots").
+1. **Introduction** The Developers of indigo-minior and yellow-minior ("we", "our", "us") are committed to protecting and respecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our Discord bots (the "Bots").
 
 2. **Information We Collect** We may collect and process the following data about you:
   - User Data: Information such as your Discord user ID, username, and messages sent to the Bots.
