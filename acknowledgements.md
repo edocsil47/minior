@@ -13,7 +13,7 @@ Thanks to all the Pokemon GO content creators, posters, and researchers that mad
 ## yellow-minior
 
 This project would not have been possible without the APIs provided by the following websites:
-- **[Pokenav](https://pokenavbot.com/)** – For developing the Pokenav bot that this project was based on, and for providing free access to your trainer profile database.
+- **[PokeNav](https://pokenavbot.com/)** – For developing the PokeNav bot that this project was based on, and for providing free access to your trainer profile database.
 - **[Pokebattler](https://www.pokebattler.com/)** – For providing numerous free APIs for the Pokemon GO community.
 - **[Flags API & CDN (Flagpedia.net)](https://flagpedia.net)** – For providing free and up-to-date country data and flag icons.
 
