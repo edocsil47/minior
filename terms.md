@@ -1,8 +1,8 @@
-# Terms of Service for Indigo Minior and Yellow Minior
+# Terms of Service for indigo-minior and yellow-minior
 
-1. **Acceptance of Terms** By using Indigo Minior and Yellow Minior (the "Bots"), you agree to comply with and be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not use the Bots.
+1. **Acceptance of Terms** By using indigo-minior and yellow-minior (the "Bots"), you agree to comply with and be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not use the Bots.
 
-2. **Descriptions of Service** Indigo Minior provides moderation services for the Pokémon GO Ottawa Discord server ("Pokémon GO Ottawa") and general utility commands which are available to server members and users who install Indigo Minior. Yellow Minior provides services for organizing groups using Discord's private thread feature. The Bots are provided "as is" and "as available" without warranties of any kind.
+2. **Descriptions of Service** indigo-minior provides moderation services for the Pokémon GO Ottawa Discord server ("Pokémon GO Ottawa") and general utility commands which are available to server members and users who install indigo-minior. The bot yellow-minior provides services for organizing groups using Discord's private thread feature. The Bots are provided "as is" and "as available" without warranties of any kind.
 
 3. **User Conduct** You agree not to use the Bots to:
   - Violate any laws or regulations.
