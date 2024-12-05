@@ -20,4 +20,4 @@
 
 8. **Governing Law** These Terms shall be governed by and construed in accordance with the laws of California, United States, without regard to its conflict of law principles.
 
-9. **Contact Information** If you have any questions about these Terms, please contact us through our Discord support server at [https://discord.gg/yd7fscCxzhat](https://discord.gg/yd7fscCxzhat) or directly through Discord at username @edocsil47.
+9. **Contact Information** If you have any questions about these Terms, please contact us through our Discord support server at [https://discord.gg/yd7fscCxzh](https://discord.gg/yd7fscCxzh) or directly through Discord at username @edocsil47.
