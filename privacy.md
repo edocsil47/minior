@@ -30,4 +30,4 @@
 
 8. **Changes to This Privacy Policy** We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
-9. **Contact Us** If you have any questions about this Privacy Policy, please contact us through our Discord support server at [https://discord.gg/yd7fscCxzhat](https://discord.gg/yd7fscCxzhat) or directly through Discord at username @edocsil47.
+9. **Contact Us** If you have any questions about this Privacy Policy, please contact us through our Discord support server at [https://discord.gg/yd7fscCxzh](https://discord.gg/yd7fscCxzh) or directly through Discord at username @edocsil47.
