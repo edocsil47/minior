@@ -5,10 +5,10 @@
 2. **Descriptions of Service** indigo-minior provides moderation services for the Pokémon GO Ottawa Discord server ("Pokémon GO Ottawa") and general utility commands which are available to server members and users who install indigo-minior. The bot yellow-minior provides services for organizing groups using Discord's private thread feature. The Bots are provided "as is" and "as available" without warranties of any kind.
 
 3. **User Conduct** You agree not to use the Bots to:
-  - Violate any laws or regulations.
-  - Post or transmit any content that is unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, or otherwise objectionable.
-  - Impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity.
-  - Engage in any activity that interferes with or disrupts the Bots or the servers and networks connected to the Bots.
+    - Violate any laws or regulations.
+    - Post or transmit any content that is unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, or otherwise objectionable.
+    - Impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity.
+    - Engage in any activity that interferes with or disrupts the Bots or the servers and networks connected to the Bots.
 
 4. **Privacy** Your privacy is important to us. Please review our [Privacy Policy](privacy.md) to understand how we collect, use, and share information about you.
 
