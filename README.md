@@ -6,4 +6,4 @@
 
 [Acknowledgements](acknowledgements.md)
 
-[Support Server](https://discord.gg/yd7fscCxzhat)
+[Support Server](https://discord.gg/yd7fscCxzh)
