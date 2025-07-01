@@ -1,9 +1,9 @@
 # indigo-minior and yellow-minior
 
-[Terms of Service](terms.md)
+[Terms of Service](pages/terms.md)
 
-[Privacy Policy](privacy.md)
+[Privacy Policy](pages/privacy.md)
 
-[Acknowledgements](acknowledgements.md)
+[Acknowledgements](pages/acknowledgements.md)
 
 [Support Server](https://discord.gg/yd7fscCxzh)
