@@ -9,4 +9,4 @@
 
 [Acknowledgements](pages/acknowledgements.md)
 
-[Support Server](https://discord.gg/yd7fscCxzh)
+<!--[Support Server](https://discord.gg/yd7fscCxzh)-->
